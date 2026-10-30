@@ -1,0 +1,50 @@
+PLFS_Year,Education_Group,LFPR,WPR,Unemployment_Rate,Sample_Size
+2017-18,Graduate and Above,61.83,51.63,16.5,39527
+2017-18,Higher Secondary / Diploma,42.75,37.73,11.75,46438
+2017-18,Literate / Below Primary,56.97,56.04,1.64,15412
+2017-18,Middle,51.53,48.67,5.54,72160
+2017-18,Not Literate,45.86,45.33,1.16,66072
+2017-18,Primary,55.74,53.99,3.15,34818
+2017-18,Secondary,44.18,41.65,5.75,56193
+2018-19,Graduate and Above,61.89,51.84,16.23,39834
+2018-19,Higher Secondary / Diploma,43.15,38.61,10.52,46574
+2018-19,Literate / Below Primary,58.79,57.55,2.11,14284
+2018-19,Middle,52.6,50.06,4.84,69906
+2018-19,Not Literate,45.67,45.18,1.08,62158
+2018-19,Primary,56.95,55.51,2.52,34925
+2018-19,Secondary,43.47,41.07,5.51,54137
+2019-20,Graduate and Above,62.91,52.79,16.08,41447
+2019-20,Higher Secondary / Diploma,45.31,41.26,8.94,46332
+2019-20,Literate / Below Primary,61.47,60.81,1.08,17256
+2019-20,Middle,54.89,53.04,3.37,68211
+2019-20,Not Literate,51.59,51.27,0.62,62262
+2019-20,Primary,59.72,58.73,1.65,32322
+2019-20,Secondary,46.41,44.51,4.09,52248
+2020-21,Graduate and Above,62.85,53.56,14.78,41045
+2020-21,Higher Secondary / Diploma,45.55,42.02,7.76,47159
+2020-21,Literate / Below Primary,63.35,62.76,0.93,16621
+2020-21,Middle,56.95,55.51,2.52,69192
+2020-21,Not Literate,53.84,53.6,0.44,58926
+2020-21,Primary,62.21,61.19,1.63,32431
+2020-21,Secondary,46.69,44.93,3.77,51362
+2021-22,Graduate and Above,64.55,55.49,14.03,42597
+2021-22,Higher Secondary / Diploma,47.37,43.87,7.39,47155
+2021-22,Literate / Below Primary,64.73,64.34,0.6,14986
+2021-22,Middle,56.81,55.31,2.65,73907
+2021-22,Not Literate,52.97,52.76,0.39,60520
+2021-22,Primary,62.33,61.59,1.18,35543
+2021-22,Secondary,46.55,44.98,3.37,52373
+2022-23,Graduate and Above,65.85,57.24,13.08,42592
+2022-23,Higher Secondary / Diploma,49.6,46.76,5.71,47180
+2022-23,Literate / Below Primary,63.2,62.89,0.48,14678
+2022-23,Middle,59.58,58.54,1.74,71167
+2022-23,Not Literate,56.7,56.61,0.16,57274
+2022-23,Primary,66.44,66.07,0.55,36303
+2022-23,Secondary,48.87,47.8,2.19,51066
+2023-24,Graduate and Above,67.24,58.58,12.88,44598
+2023-24,Higher Secondary / Diploma,51.07,48.52,5.0,47825
+2023-24,Literate / Below Primary,67.99,67.73,0.37,14962
+2023-24,Middle,61.68,60.7,1.59,69672
+2023-24,Not Literate,59.72,59.6,0.19,57014
+2023-24,Primary,69.25,68.79,0.66,35671
+2023-24,Secondary,50.68,49.7,1.93,50031

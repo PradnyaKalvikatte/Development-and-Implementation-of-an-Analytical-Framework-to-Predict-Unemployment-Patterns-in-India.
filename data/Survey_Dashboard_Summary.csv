@@ -1,0 +1,60 @@
+Indicator,Category,Frequency,Percentage
+Age Group,20–25,59,42.14
+Age Group,Above 35,58,41.43
+Age Group,26–35,15,10.71
+Age Group,Below 20,8,5.71
+Gender,Male,87,62.14
+Gender,Female,53,37.86
+State,Maharashtra,119,85.0
+State,Karnataka,21,15.0
+Area of Residence,Rural,70,50.0
+Area of Residence,Urban,38,27.14
+Area of Residence,Semi-Urban,18,12.86
+Area of Residence,Metropolitan,14,10.0
+Education,Postgraduate or Above,68,48.57
+Education,Undergraduate,43,30.71
+Education,Diploma,15,10.71
+Education,Higher Secondary or Below,14,10.0
+Employment Status,Employed,58,41.43
+Employment Status,Student / Intern,33,23.57
+Employment Status,Unemployed and actively looking for work,28,20.0
+Employment Status,Self-employed,21,15.0
+Unemployment Duration,Not Applicable,72,54.96
+Unemployment Duration,More than 6 months,29,22.14
+Unemployment Duration,Less than 3 months,18,13.74
+Unemployment Duration,3–6 months,12,9.16
+Work Experience,No Experience,52,37.14
+Work Experience,Work Experience,44,31.43
+Work Experience,Both,24,17.14
+Work Experience,Internship Experience,20,14.29
+Skill Programme,Yes,71,50.71
+Skill Programme,No,34,24.29
+Skill Programme,Currently Pursuing,24,17.14
+Skill Programme,Planning to Pursue,11,7.86
+Skill-Job Match,Completely,70,50.0
+Skill-Job Match,Partially,35,25.0
+Skill-Job Match,Not at All,20,14.29
+Skill-Job Match,Very Little,15,10.71
+Underemployment,No,66,47.14
+Underemployment,"Yes, I have in the past",32,22.86
+Underemployment,"Yes, I am currently doing such a job",23,16.43
+Underemployment,Not Applicable,19,13.57
+Migration,No,55,39.29
+Migration,Already Migrated,33,23.57
+Migration,Considering Migration,32,22.86
+Migration,Not Applicable,20,14.29
+Employment Sector,Services / IT,57,40.71
+Employment Sector,Government / Public Sector,42,30.0
+Employment Sector,Manufacturing / Industry,22,15.71
+Employment Sector,Agriculture,19,13.57
+Technology Impact,Positively,80,57.14
+Technology Impact,No Noticeable Effect,26,18.57
+Technology Impact,Not Sure,21,15.0
+Technology Impact,Negatively,13,9.29
+Government Programme Awareness,Skill India / PMKVY,33,56.9
+Government Programme Awareness,Startup / Self-employment Scheme,13,22.41
+Government Programme Awareness,MGNREGA,12,20.69
+Occupational Response,Continued Searching in My Preferred Field,43,30.71
+Occupational Response,Found Employment in My Preferred Field,38,27.14
+Occupational Response,Shifted to a Different Field,30,21.43
+Occupational Response,Accepted a Job Outside My Qualification,29,20.71

@@ -1,0 +1,44 @@
+{
+    "research_target": "State-level Unemployment Rate (%)",
+    "final_model": "Lag-Only Linear Regression",
+    "benchmark": "Persistence Baseline",
+    "model_feature": "Lagged_Unemployment_Rate",
+    "model_equation": "Predicted UR = 0.6791 + (0.7778 \u00d7 Lagged UR)",
+    "training_period": "2018-19 to 2022-23",
+    "final_test_period": "2023-24",
+    "training_rows": 164,
+    "test_rows": 32,
+    "temporal_validation": {
+        "average_MAE": 1.2233,
+        "average_RMSE": 1.8799,
+        "average_R2": 0.5638
+    },
+    "final_test_linear_regression": {
+        "MAE": 0.9255981757082533,
+        "RMSE": 1.350518839601064,
+        "R2": 0.6553450122240552
+    },
+    "final_test_persistence_baseline": {
+        "MAE": 0.89,
+        "RMSE": 1.2317441901628763,
+        "R2": 0.7133022272944456
+    },
+    "state_wise_test_wins": {
+        "Persistence_Baseline": 17,
+        "Linear_Regression": 15
+    },
+    "important_findings": [
+        "Lagged unemployment was the strongest predictive signal.",
+        "Economic-demographic predictors did not improve temporal validation accuracy over the Lag-Only Linear Regression model.",
+        "Adding CPI inflation did not improve average predictive performance on the common CPI-covered sample.",
+        "The Persistence Baseline slightly outperformed Linear Regression on the final unseen 2023-24 test period.",
+        "Prediction errors tended to increase for observations with higher unemployment rates."
+    ],
+    "limitations": [
+        "The model is designed for short-horizon State-level unemployment estimation.",
+        "Predictions depend strongly on the previous observed unemployment rate.",
+        "The model should not be interpreted as establishing causal relationships.",
+        "Sudden State-level unemployment changes and extreme unemployment values are more difficult to predict.",
+        "The model is not designed for long-horizon forecasting without additional future information."
+    ]
+}
