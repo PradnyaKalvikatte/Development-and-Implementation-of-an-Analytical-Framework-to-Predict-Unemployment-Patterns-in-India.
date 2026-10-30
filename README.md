@@ -1,4 +1,4 @@
-# India Unemployment Pattern Intelligence & Decision-Support System
+# Development and Implementation of an Analytical Framework to Predict Unemployment Patterns in India over the Last Decade using Machine Learning Techniques.
 
 A Streamlit-based research dashboard for exploring unemployment patterns in India and presenting a short-horizon, state-level machine-learning analysis.
 
